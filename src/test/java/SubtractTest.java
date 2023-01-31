@@ -4,10 +4,10 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class SubtractTest {
-    Subtract s;
+    Lab s;
     @Before
     public void setUp(){
-        s = new Subtract();
+        s = new Lab();
     }
 
     /**
