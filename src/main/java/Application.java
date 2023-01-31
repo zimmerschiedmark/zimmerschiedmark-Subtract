@@ -7,9 +7,9 @@ public class Application {
      * The Lab.subtract method should produce the sum of two decimal numbers (doubles).
      */
     public static void main(String[] args) {
-        Lab add = new Lab();
+        Lab subtract = new Lab();
         System.out.println("Currently, the lab produces the result of 3.1 - 0.2 as:");
-        double result = add.sub(3.1,0.2);
+        double result = subtract.sub(3.1,0.2);
         System.out.println(result);
     }
 }
